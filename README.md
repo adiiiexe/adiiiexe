@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning API<br>💬 Ask me about VibeCode<br>⚡ Fun fact - The internet is like a series of pipes in that both ultimately lead to the sewer.
+🌱 I’m currently learning API<br>💬 Ask me about Ai<br>⚡ Fun fact - The internet is like a series of pipes in that both ultimately lead to the sewer.
 
 
 ## 🌐 Socials:
